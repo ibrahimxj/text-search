@@ -6,12 +6,16 @@ Simple text search app built with React, TypeScript, and Vite.
 
 First, you'll need Node.js installed. If you don't have it, grab it from [nodejs.org](https://nodejs.org/).
 
-# Clone and install
+### Clone and install
+```bash
 git clone <repository-url>
 cd text-search
 npm install
+```
 
-# Start dev server
+### Start dev server
+```bash
 npm run dev
+```
 
 That's it! Open http://localhost:5173 and you're good to go.
